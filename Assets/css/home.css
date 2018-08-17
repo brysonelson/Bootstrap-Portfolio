@@ -1,0 +1,61 @@
+
+body {
+    font-family: sans-serif;
+    font-size: 20px;
+    box-sizing:border-box;
+    background: #c9cac0;
+}
+
+nav {
+    background: white;
+    background-image: url("../images/headerBackground.jpg");
+    box-shadow: 0px -20px 200px #000;
+}
+
+
+a h1 {
+    text-shadow:-1px -1px 5px #33323281, 1px -1px 5px #33323281, -1px 1px 5px #33323281, 1px 1px 5px #33323281;
+    color: #f7f9fb;
+}
+
+button {
+    background-color: transparent;
+    border: 0px;
+    color: white;
+    text-shadow:-1px -1px 5px #33323281, 1px -1px 5px #33323281, -1px 1px 5px #33323281, 1px 1px 5px #33323281;
+    font-size: 16px;
+
+}
+
+
+.mainphrase {
+    font-family: 'Advent Pro', sans-serif;
+    color: #fff;
+    mix-blend-mode: multiply;
+    text-shadow:-1px -1px 5px #33323281, 1px -1px 5px #33323281, -1px 1px 5px #33323281, 1px 1px 5px #33323281;
+
+    opacity: .3;
+    
+}
+
+.hrefs {
+    text-decoration: none;
+    color: black;
+}
+
+.footer {
+    background: #BDBDA5;
+    box-shadow: 20px 20px 200px #000;
+}
+
+.copyright {
+    color: #635c48;
+
+}
+
+.outlets {
+    background: #C3CAC2;
+    color: white;
+    text-shadow:-1px -1px 5px #9e9a9a28, 1px -1px 5px #9e9a9a28, -1px 1px 5px #9e9a9a28, 1px 1px 5px #9e9a9a28;
+}
+

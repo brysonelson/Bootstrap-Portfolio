@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+    font-size: 20px;
+    background: white;
+    
+}
+
+nav {
+    box-shadow: 0px 5px 50px 0px #888888c9;
+    background: white;
+    background-image: url("../images/headerBackground.jpg");
+}
+
+h1 {
+    text-shadow:-1px -1px 5px #33323281, 1px -1px 5px #33323281, -1px 1px 5px #33323281, 1px 1px 5px #33323281;
+    color: #f7f9fb;
+}
+
+button {
+    background-color: transparent;
+    border: 0px;
+    color: white;
+    text-shadow:-1px -1px 5px #33323281, 1px -1px 5px #33323281, -1px 1px 5px #33323281, 1px 1px 5px #33323281;
+    font-size: 15px;
+}
+
+.content {
+    background: #c9cac0;
+    border-radius: 2px;
+    z-index: -1;
+}
+
+h2 {
+    color: #635c48;
+}
+
+
+.footer {
+    background: #BDBDA5;
+    box-shadow: 0px -5px 50px 0px #888888c9;
+}
+
+.copyright {
+    box-sizing:border-box;
+    color: #635c48;
+}
